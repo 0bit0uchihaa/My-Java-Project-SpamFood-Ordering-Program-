@@ -25,28 +25,10 @@ build a clean UI, and structure a medium-sized Java project.
 
 ## 🛠️ Built With
 
-- **Java** (JDK 17)
-- **Swing** (for the GUI)
+- **Java** (JDK 25)
+- **JavaFX** (for the GUI)
 - **IntelliJ IDEA**
 - **Git & GitHub**
-
----
-
-## 📁 Project Structure (Simplified)
-SpamFood/
-├── src/
-│ ├── SpamFood/
-│ │ ├── Main.java # Where the app starts
-│ │ ├── StartWindow.java # Welcome screen
-│ │ ├── LoginSignUp/ # Login & Sign-up screens
-│ │ ├── Restaurants/ # Restaurant cards & home page
-│ │ ├── Foods/ # Food item classes
-│ │ ├── OrderHandler/ # Shopping basket logic
-│ │ └── User/ # User validation (mock)
-│ ├── Images/ # Icons and UI images
-│ └── Poppins/ # Custom fonts
-├── .gitignore
-└── README.md
 
 ---
 
