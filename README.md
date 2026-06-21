@@ -61,3 +61,30 @@ SpamFood/
 1. Clone this repository:
    ```bash
    git clone https://github.com/0bit0uchihaa/My-Java-Project-SpamFood-Ordering-Program-.git
+2. Open the project in your IDE.
+
+3. Find Main.java inside src/SpamFood/.
+
+4. Click Run (or press Shift + F10 in IntelliJ).
+
+That's it! The app will open and you can start clicking around.
+
+🤝 Contributions
+This is mostly a personal learning project, but feel free to:
+
+Fork it
+
+Play around with it
+
+Use it as a starting point for your own project
+
+If you have ideas or improvements, I'd love to hear them!
+
+📬 Connect With Me
+Email: sobhanbarani9069@gmail.com
+
+GitHub: 0bit0uchihaa
+
+⭐ If You Like It...
+Drop a ⭐ on this repo — it really means a lot, especially when you're just starting out!
+
